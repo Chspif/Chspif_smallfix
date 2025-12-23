@@ -1,1 +1,0 @@
-execute as @a if score @s fixkey matches 0 run scoreboard players set @s fixkey 1
