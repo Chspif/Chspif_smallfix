@@ -1,0 +1,1 @@
+本数据包已废弃，功能并入chspif_minecraft_datapack(2026.1.2)
